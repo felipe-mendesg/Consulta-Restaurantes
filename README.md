@@ -1,4 +1,4 @@
-## **README.md: Seu Guia para o Buscador de Restaurantes**
+## ** Seu Guia para o Buscador de Restaurantes - Imersão Dev Alura com Gemini**
 
 ### **O que faz essa aplicação?**
 
